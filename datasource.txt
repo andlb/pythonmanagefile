@@ -1,0 +1,70 @@
+/11/  6:22 O   -035 00/0000 76,000                                                       76,000   1 Ord. S
+  0000857-CUSTOMER000000000020000000-                  001-A VISTA                000-               00/00/
+  ASTRA                   CAC1347    1995        A 3651    Ord. S
+ Discriminação do serviço a realiz                   ntidade
+ TR OLEO MOTOR E FILTRO                                 0,00
+
+                                                        0,00
+/11/  8:55 O   -035 00/0000 78,000                                                       78,000   1 Ord. S
+  0000242-CUSTOMER000000000090000000-                  001-A VISTA                000-               00/00/
+  UNO                     DSO7233    2006        A 3649    Ord. S
+ ANDRESA RIBEIRO LACERDA 992522166
+ Discriminação do serviço a realiz                   ntidade
+ TR OLEO MOTOR E FILTRO                                 0,00
+ COMB RES                                               0,00
+
+                                                        0,00
+/11/  6:31 O   -035 00/0000 76,000                                                       76,000   1 Ord. S
+  0008593-CUSTOMER000000000180000000-                  001-A VISTA                000-               00/00/
+  MERIVA                  DYJ0995    2006        A 3665    Ord. S
+ Discriminação do serviço a realiz                   ntidade
+ TR OLEO MOTOR E FILTRO                                 0,00
+ COMB 3/4                                               0,00
+
+                                                        0,00
+/11/  7:56 O   -035 00/0000 30,000                                                       30,000   1 Ord. S
+  0001365-CUSTOMER000000000260000000-                  001-A VISTA                000-               00/00/
+  GOL                     EGE2230    2009        A 3683    Ord. S
+ 997567340
+ Discriminação do serviço a realiz                   ntidade
+ EX VAZ AGUA                                            0,00
+ TR PASTILHAS                                           0,00
+ COMB 1/4+                                              0,00
+ TR LONAS FREIO                                         0,00
+ TR CILINDRO TRAS L DIR                                 0,00
+ TR CARCACA VALV TERMOSTATICA                           0,00
+ TR OLEO FREIO DOT 4                                    0,00
+
+                                                        0,00
+/11/  8:47 O   -035 00/0000112,000                                                      112,000   1 Ord. S
+  0007067-CUSTOMER000000000400000000-                  001-A VISTA                000-               00/00/
+  GOL                     FKA0620    2014        A 3675    Ord. S
+ Discriminação do serviço a realiz                   ntidade
+ TR OLEO MOTOR E FILTRO                                 0,00
+ TR FILTRO COMB                                         0,00
+ FILTRO AR                                              0,00
+ ALINHAMENTO                                            0,00
+ EX FREIO                                               0,00
+ EX OLEO CAMBIO                                         0,00
+ LIMPAR PAINEL                                          0,00
+ COMB 1/2                                               0,00
+ REG.FREIO TRAS]                                        0,00
+ COMPLETOU AGUA DO RADIADOR E DO LIMPADOR[              0,00
+
+                                                        0,00
+/11/  9:57 O   -035 00/0000104,000                                                      104,000   1 Ord. S
+  0005566-CUSTOMER000000000560000000-                  001-A VISTA                000-               00/00/
+  COROLLA                 EYQ0150    2011        A 3670    Ord. S
+ Discriminação do serviço a realiz                   ntidade
+ TR OLEO MOTOR E FILTRO 10W40                           0,00
+
+                                                        0,00
+/11/  6:57 O   -035 00/0000 72,000                                                       72,000   1 Ord. S
+  0010204-CUSTOMER000000000630000000-                  001-A VISTA                000-               00/00/
+  FIESTA 1.6              DSK7671    2006        A 3686    Ord. S
+ Discriminação do serviço a realiz                   ntidade
+ EX VAZ OLEO                                            0,00
+ EX BARULHO RODA DIANT                                  0,00
+ COMB RESERVA                                           0,00
+
+                                                        0,00
